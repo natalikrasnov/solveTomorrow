@@ -1,4 +1,5 @@
-# 🛠️ IdeaForge — Purpose Idea Tool
+# 🛠️ solveTomorrow
+ — Purpose Idea Tool
 
 IdeaForge is an intelligent, full-stack prototyping workbench that turns global themes, local challenges, and custom seed prompts into fully interactive, single-file HTML mockups and templates.
 
@@ -37,5 +38,5 @@ Follow these quick steps to host your own copy of **IdeaForge**:
 ### 1. Clone & Install Dependencies
 ```bash
 git clone https://github.com/your-username/IdeaForge.git
-cd IdeaForge
+cd solveTomorrow
 npm install
