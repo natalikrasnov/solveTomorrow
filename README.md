@@ -1,7 +1,6 @@
-# 🛠️ solveTomorrow
- — Purpose Idea Tool
+# 🛠️ solveTomorrow — Purpose Idea Tool
 
-IdeaForge is an intelligent, full-stack prototyping workbench that turns global themes, local challenges, and custom seed prompts into fully interactive, single-file HTML mockups and templates.
+solveTomorrow is an intelligent, full-stack prototyping workbench that turns global themes, local challenges, and custom seed prompts into fully interactive, single-file HTML mockups and templates.
 
 Powered by a dual-agent architecture, IdeaForge first conceptualizes comprehensive solution blueprints—evaluating socioeconomic threats, critical bottlenecks, and operational ratings—and then compiles them into functional front-end live frames.
 
