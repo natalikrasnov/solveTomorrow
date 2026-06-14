@@ -1,0 +1,6 @@
+{
+  "name": "IdeaForge",
+  "description": "Transform global issues and user ideas into fully functional, interactive, single-file HTML live demos powered by dual AI agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
